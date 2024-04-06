@@ -3,12 +3,20 @@
     "baby-tea": "^6.0.0"
   },
   "name": "dogssss123",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "dogssss123",
   "license": "ISC",
-  "description": "Just for tea project"
+  "description": "Just for tea project",
+  "repository": {
+
+	"type": "git",
+	"url": "https://github.com/dogssss123/dogssss123"
+},
+"license": "ISC",
+"homepage": "https://github.com/dogssss123/dogssss123/issue",
+"main": "start.py"
 }
